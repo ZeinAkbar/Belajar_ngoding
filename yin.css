@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: 'Epilogue';
+    background: hsl(0, 0%, 98%);
+}
+.heading{
+    padding: 10px 12px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+}
+.snap{
+    margin: 0;
+    font-weight: bold;
+    font-size: 2em;
+    height: 100%;
+}
+.menu{
+    color: hsl(0, 0%, 41%);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.login{
+    margin-left: 500px;
+}
+.login a{
+    text-decoration: none;
+    color: hsl(0, 0%, 41%);
+}
+.register{
+    width: 100px;
+    height: 30px;
+    border: 1px solid hsl(0, 0%, 41%);
+    color: hsl(0, 0%, 41%);
+    line-height: 30px;
+    text-align: center;
+    border-radius: 7px;
+}
+.hero{
+    padding: 100px;
+    margin-left: 80px;
+    margin-top: 35px;
+}
+.teks{
+    font-weight: bold;
+    font-size: 4em;
+}
+.teks2{
+    color: hsl(0, 0%, 41%);
+}
+.button{
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+    background: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 98%);
+    line-height: 40px;
+    margin-top: 50px;
+}
+.body{
+    display: flex;
+
+}
+.logo img{
+    margin-top: 120px;
+}
+.image img{
+    width: 400px;
+    margin-top: 70px;
+}
