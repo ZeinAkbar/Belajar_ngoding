@@ -32,7 +32,7 @@ h2 {
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    background-image: url("../images/icon-music.svg");
+    background: #dfe4ff;
 }
 .pipit {
     background-color: #f5f7ff;
@@ -61,11 +61,12 @@ h2 {
     box-shadow: 0 30px 10px -15px rgba(57, 40, 224, 0.3);
     transform: translateY(-10px);
     background-color: #6c47ff;
+    cursor: pointer;
 }
 .akhir {
     color: gray;
     margin-top: 20px;
     font-weight: bold;
 }
-.
+
 
